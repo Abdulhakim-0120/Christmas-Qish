@@ -192,7 +192,7 @@ img {
     background-color: var(--body-color);
     width: 100%;
     padding-block: 3.5rem;
-    transition: top .4s;
+    transition: left .4s;
   }
 }
 
